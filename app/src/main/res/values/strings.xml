@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab02</string>
+    <string name="submit">Add to List</string>
+    <string-array name="args">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+    </string-array>
+</resources>
