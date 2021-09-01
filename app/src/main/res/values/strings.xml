@@ -1,10 +1,16 @@
 <resources>
     <string name="app_name">Lab02</string>
-    <string name="submit">Add to List</string>
+    <string name="submit">Submit</string>
+    <string name="decrement">Decrement</string>
+    <string name="increment">Increment</string>
     <string-array name="args">
         <item>Mercury</item>
         <item>Venus</item>
         <item>Earth</item>
         <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
     </string-array>
 </resources>
